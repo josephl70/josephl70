@@ -3,4 +3,6 @@
 
 👨‍🚀 Just someone who likes to drift around in space and relax.
 
-<p align="center">[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q656AIC)</p>
+<p style="text-align: center;">
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q656AIC)
+</p>
